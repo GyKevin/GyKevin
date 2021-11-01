@@ -4,11 +4,6 @@ Wanna be back-end web dev.
 - Currently participating in a project for Bitacademy.
 - Beliver in VisualStudioCode supremacy.
 - Religious folower of PHP.
-- I like to repeatedly lift and put down heavy weights in my free time.
-
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GyKevin&show_icons=true&hide_border=true&theme=dark"/>
 
 ---
 
@@ -19,6 +14,10 @@ Wanna be back-end web dev.
 <img width="48px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
 <img width="48px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
 <img width="48px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GyKevin&show_icons=true&hide_border=true&theme=dark"/>
 
 
 <!--
