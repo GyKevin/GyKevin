@@ -1,4 +1,13 @@
-### Hi there 👋
+### Yo, i'm Kevin.
+Wanna be back-end web dev.
+---
+- Currently participating in a project for Bitacademy.
+- Religious folower of PHP.
+- I like to repeatedly lift and put down heavy weights.
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GyKevin&show_icons=true&hide_border=true&theme=dark%22/%3E"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyKevin&show_icons=true&hide_border=true&theme=dark%22/%3E"/>
 
 <!--
 **GyKevin/GyKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
