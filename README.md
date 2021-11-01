@@ -7,7 +7,9 @@ Wanna be back-end web dev.
 - I like to repeatedly lift and put down heavy weights in my free time.
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GyKevin&show_icons=true&hide_border=true&theme=dark"/>
+---
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
 <img width="48px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
 <img width="48px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
 <img width="48px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
