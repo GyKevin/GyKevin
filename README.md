@@ -17,7 +17,7 @@ Wanna be back-end web dev.
 
 ---
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyKevin)](https://github.com/GyKevin/github-readme-stats)
+
 
 
 <!--
