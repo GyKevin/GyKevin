@@ -1,6 +1,6 @@
 ### Hey, i'm Kevin.
-Wanna be back-end web dev.
 ---
+- Wanna be back-end web dev.
 - Currently participating in a project for Bitacademy.
 - Beliver in VisualStudioCode supremacy.
 - Religious folower of PHP.
