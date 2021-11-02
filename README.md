@@ -18,7 +18,7 @@ Wanna be back-end web dev.
 ---
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GyKevin&hide_border=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GyKevin&theme=dark)
 
 <!--
 **GyKevin/GyKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
