@@ -2,7 +2,7 @@
 ---
 - Wannabe back-end web dev.
 - Professional idiot.
-- Beliver in VisualStudioCode supremacy.
+- Beliver in Visual Studio Code supremacy.
 
 ---
 
