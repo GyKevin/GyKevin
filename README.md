@@ -1,9 +1,8 @@
 ### Hey, i'm Kevin.
 ---
 - Wannabe back-end web dev.
-- Currently participating in a project for Bitacademy.
+- Professional idiot.
 - Beliver in VisualStudioCode supremacy.
-- Religious folower of PHP.
 
 ---
 
