@@ -1,7 +1,7 @@
 ### Hey, i'm Kevin.
 ---
 - Wannabe back-end web dev.
-- Professional idiot.
+- Professional StackOverflow copy paster.
 - Beliver in Visual Studio Code supremacy.
 
 ---
