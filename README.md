@@ -1,9 +1,8 @@
 ### Hey, i'm Kevin.
 ---
-- Wannabe back-end web dev.
+- Front and Back end developer in the learning
 - Professional StackOverflow copy paster.
-- Beliver in Visual Studio Code supremacy.
-
+- Mainly use PHP and MYSQL
 ---
 
 ### Tools and languages i use
