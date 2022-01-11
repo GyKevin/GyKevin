@@ -1,6 +1,6 @@
 ### Hey, i'm Kevin.
 ---
-- Front and Back end developer in the learning
+- Front/Back end developer in the learning
 - Professional StackOverflow copy paster.
 - Mainly use PHP and MYSQL
 ---
