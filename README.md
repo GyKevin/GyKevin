@@ -2,7 +2,7 @@
 ---
 - Fullstack developer in the learning
 - Professional StackOverflow copy paster.
-- Mainly use PHP and MYSQL
+- Likes to use PHP and MYSQL
 ---
 
 ### Tools and languages i use
