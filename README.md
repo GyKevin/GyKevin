@@ -1,5 +1,4 @@
 ### Hey, i'm Kevin.
----
 - Fullstack developer in the learning
 - Professional StackOverflow copy paster.
 - Likes to use PHP and MYSQL
