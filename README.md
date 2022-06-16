@@ -1,5 +1,5 @@
 ### Hey, i'm Kevin.
-- Fullstack developer in the learning
+- Web Developer
 - Professional StackOverflow copy paster.
 - Learning Vue rn
 ---
